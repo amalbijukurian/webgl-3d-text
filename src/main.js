@@ -4,7 +4,7 @@ import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls.js'
 import { FontLoader } from 'three/examples/jsm/loaders/FontLoader.js'
 import {TextGeometry} from 'three/examples/jsm/geometries/TextGeometry.js'
 import font from './static/fonts/helvetiker_regular.typeface.json'
-import matcapImage from './static/textures/1.png'
+import matcapImage from './static/textures/5.png'
 
 const scene=new THREE.Scene()
 
